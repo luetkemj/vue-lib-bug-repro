@@ -1,3 +1,5 @@
+NOTE: issue and solution outline here: https://github.com/vuejs/vue-cli/issues/6345
+
 To Repro:
 
 - clone this repo
